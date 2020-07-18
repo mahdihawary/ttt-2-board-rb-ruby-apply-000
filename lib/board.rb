@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = array.new(9) {string.new}
+board = Array.new(9) {String.new}
